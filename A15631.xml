@@ -16493,9 +16493,12 @@ feed.</l>
                   <desc>〈…〉</desc>
                </gap>
             </l>
-            <figure>
-               <head>WEST 3. Booke. NORTH 4. Booke. SOVTH 2. Booke. EAST 1. Booke.</head>
-            </figure>
+            <p>
+               <pb facs="tcp:19186:148"/>
+               <figure>
+                  <head>WEST 3. Booke. NORTH 4. Booke. SOVTH 2. Booke. EAST 1. Booke.</head>
+               </figure>
+            </p>
             <figure/>
          </div>
       </back>
